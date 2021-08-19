@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @30L2AN0
 - 👀 I’m interested in Animation and R&D
 - 🌱 I’m currently learning Computer Graphics/Vision and Artificial Intelligence
-- 💞️ I’m looking to collaborate on Post-production Algorithms for Visual Effects
+- 💞️ I’m looking to collaborate on Algorithms for Visual Effects
 - 📫 How to reach me https://www.linkedin.com/in/romain-chaussonnier/
 
 <!---
